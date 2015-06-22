@@ -3,9 +3,6 @@ using System.Collections;
 
 public class Player : MonoBehaviour {
 
-	public string name;
-	public int number;
-
 	// Use this for initialization
 	void Start () {
 	
